@@ -2,6 +2,6 @@
 
 ## 📁 1. Getting Started
 
-- [What Is Cybersecurity](./what-is-cybersecurity.md)
+- [What Is Cybersecurity](./getting-started/what-is-cybersecurity.md)
 
 ## 📁 2. Core Concepts
