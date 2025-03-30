@@ -4,14 +4,14 @@ A home lab is one of the best ways to build real skills and gain hands-on experi
 
 ---
 
-## 🧰 What You’ll Need
+## What You’ll Need
 
-### 💻 A Computer with:
+### A Computer with:
 - At least **16GB of RAM** (8GB minimum)
 - **100+ GB of free disk space**
 - A CPU that supports virtualization (Intel VT-x or AMD-V)
 
-### 🧱 Software:
+### Software:
 - **Virtualization Platform**: VirtualBox (free) or VMware Workstation Player
 - **ISO/VM Images**:
   - Kali Linux (for offensive tools)
@@ -20,7 +20,7 @@ A home lab is one of the best ways to build real skills and gain hands-on experi
 
 ---
 
-## 🧪 Step-by-Step Lab Setup
+## Step-by-Step Lab Setup
 
 ### 1. Install VirtualBox or VMware
 - Download from the official site and install.
@@ -39,7 +39,7 @@ A home lab is one of the best ways to build real skills and gain hands-on experi
 
 ---
 
-## 🔐 Lab Ideas to Try
+## Lab Ideas to Try
 
 | Goal | Practice |
 |------|----------|
@@ -60,7 +60,7 @@ A home lab is one of the best ways to build real skills and gain hands-on experi
 
 ---
 
-## 🚀 Pro Tips
+## Pro Tips
 
 - Take notes on what you do and learn—build a lab journal.
 - Record screen sessions for future review or portfolio use.
@@ -68,7 +68,7 @@ A home lab is one of the best ways to build real skills and gain hands-on experi
 
 ---
 
-🏁 You're ready to dive in! From here, you can explore:
+You're ready to dive in! From here, you can explore:
 - [Core Concepts](../core-concepts/)
 - [Attacks & Threats](../attacks-and-threats/)
 
