@@ -1,4 +1,4 @@
-# 🎓 Key Certifications in Cybersecurity
+ 🎓 Key Certifications in Cybersecurity
 
 Cybersecurity certifications validate your knowledge and help open doors in the industry. Below is a breakdown of the most recognized certs, organized by level and focus area.
 
