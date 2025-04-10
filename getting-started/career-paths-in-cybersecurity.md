@@ -56,7 +56,7 @@ Cybersecurity is a vast field with multiple specialties. Whether you're technica
 
 ## 5. Cloud & Identity Security
 
-### ☁Cloud Security Engineer
+### Cloud Security Engineer
 - Secures cloud environments like AWS, Azure, and GCP.
 - Implements IAM, logging, and encryption in the cloud.
 
