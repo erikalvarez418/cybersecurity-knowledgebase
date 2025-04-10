@@ -1,4 +1,4 @@
-# 🧪 Setting Up a Simple Home Cybersecurity Lab
+# Setting Up a Simple Home Cybersecurity Lab
 
 A home lab is one of the best ways to build real skills and gain hands-on experience in cybersecurity. You can simulate attacks, practice defense, and explore tools—all in a safe, legal environment.
 
@@ -51,7 +51,7 @@ A home lab is one of the best ways to build real skills and gain hands-on experi
 
 ---
 
-## 🌐 Online Lab Platforms (No Setup Needed)
+## Online Lab Platforms (No Setup Needed)
 
 - [TryHackMe](https://tryhackme.com) – Guided and beginner-friendly.
 - [Hack The Box](https://hackthebox.com) – More advanced CTF-style labs.
