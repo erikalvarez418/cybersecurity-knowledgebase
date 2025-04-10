@@ -1,4 +1,4 @@
-# 🛡️ What is Cybersecurity?
+# What is Cybersecurity?
 
 Cybersecurity is the practice of protecting systems, networks, and data from digital attacks. These attacks are often aimed at accessing, altering, or destroying sensitive information, interrupting operations, or extorting users or organizations.
 
@@ -23,4 +23,4 @@ Cybersecurity is the practice of protecting systems, networks, and data from dig
 From smartphones to smart cities, cybersecurity is essential in today’s digital world.
 
 ---
-✅ Continue to [Career Paths in Cybersecurity](career-paths-in-cybersecurity.md)
+Continue to [Career Paths in Cybersecurity](career-paths-in-cybersecurity.md)
