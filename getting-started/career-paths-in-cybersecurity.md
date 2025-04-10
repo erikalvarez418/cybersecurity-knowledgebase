@@ -1,4 +1,4 @@
-# 🧭 Career Paths in Cybersecurity
+# Career Paths in Cybersecurity
 
 Cybersecurity is a vast field with multiple specialties. Whether you're technical or non-technical, there's a role for you.
 
@@ -78,4 +78,4 @@ These roles give you hands-on experience with systems, tickets, and tools—buil
 
 ---
 
-➡️ Up Next: [Key Certifications](key-certifications.md)
+Up Next: [Key Certifications](key-certifications.md)
